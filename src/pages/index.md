@@ -3,7 +3,7 @@ templateKey: index-page
 title: Food Distribution for the Hungry
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Website coming soon! This is a placeholder site
 mainpitch:
   title: Why Kaldi
   description: >
